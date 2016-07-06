@@ -1,2 +1,1 @@
-# home-botantics
-make my home automated
+This is information about turning the heater on.
